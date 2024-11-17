@@ -1,10 +1,12 @@
-# NexGen
+![Nexgen banner](https://github.com/user-attachments/assets/9f1d74a7-e817-4e23-9558-1e270ccf8e2f)
 
 A modern boilerplate for building full-stack applications with Next.js and a cloud-first approach.
 
 ## Why I Created This
 
 Starting a new project often involves setting up the same stack repeatedly. **NexGen** simplifies this process by providing a pre-configured setup for developing scalable, full-stack web applications.
+
+> **Note**: This template is not designed to be a highly customizable solution that allows you to choose from a variety of technologies. Such approaches often result in unpolished code attempting to integrate multiple options. Instead, NexGen offers a ready-to-use stack of carefully selected technologies that are precisely integrated with one another. The template is continuously updated to stay in sync with evolving technology trends.
 
 ## Technologies Used
 
